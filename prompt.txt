@@ -1,0 +1,14 @@
+Write a short, funny rant about an everyday annoyance for the Angry Judge contest.
+
+The rant must be 1 to 400 characters, a few sentences at most, specific and concrete —
+not a vague mood, not a list of complaints. Pick one annoyance and land the punch fast.
+
+My angle: the supermarket self-checkout machine that screams "UNEXPECTED ITEM IN THE
+BAGGING AREA" at a single banana, then summons a staff member who presses one button
+and walks away like a surgeon who just saved a life. The joke is the machine's
+confidence versus its inability to count to one, and the humiliation of paying
+eighty-nine cents to be publicly shamed by it. Close by talking to the judge
+directly — "Judge, you have met this machine" — so the anger feels shared, not performed.
+
+Keep every sentence earning its place, no throat-clearing, no filler. The program
+must write exactly this fixed text to /output/entry.txt, deterministically.
